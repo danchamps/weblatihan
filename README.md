@@ -1,5 +1,6 @@
 # weblatihan
 silahkan coba edit text ini v: latihan pertama
+>> teks apa yang diedit nang?
 
 dan silahkan dibaca cara pakai github
 
