@@ -1,7 +1,7 @@
 # weblatihan
 silahkan coba edit text ini v: latihan pertama
 >> teks apa yang diedit nang?
-
+>> bebas cak yg penting dah bsa ngubah file v:
 dan silahkan dibaca cara pakai github
 
 https://guides.github.com/activities/hello-world/ -> github
